@@ -1,0 +1,41 @@
+@font-face {
+    font-family: inter-bold;
+    src: url(Inter-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: inter-medium;
+    src: url(Inter-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: montserrat-semibold;
+    src: url(Montserrat-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: poppins-regular;
+    src: url(Poppins-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: poppins-medium;
+    src: url(Poppins-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: poppins-semibold;
+    src: url(Poppins-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: poppins-bold;
+    src: url(Poppins-Bold.ttf);
+    font-weight: 700;
+}
